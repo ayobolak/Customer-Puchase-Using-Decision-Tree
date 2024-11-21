@@ -22,3 +22,8 @@ Libraries:
 Data Manipulation: Pandas, NumPy, Matplotlib
 Machine Learning: scikit-learn
 
+# Key Results and Insights
+ : "The decision tree revealed that customers aged between 25-35 with an estimated salary above $70,000 are more likely to purchase."
+ : "The model achieved an accuracy of 85% on the test dataset, demonstrating its effectiveness in classifying customer behavior."
+
+
