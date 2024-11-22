@@ -1,7 +1,7 @@
 # Decision Tree Analysis of Customer Purchases
 A data-driven project that uses decision tree algorithms to predict customer purchase behavior based on demographic features like age and estimated salary.
 
-![image](https://github.com/user-attachments/assets/bd62d941-b115-4cef-8f18-ce7caf62c579)
+<img src="https://github.com/ayobolak/Decision-Tree-Analysis-of-Customer-Purchases/raw/refs/heads/main/DALL%C2%B7E%202024-11-22%2007.52.52%20-%20A%20detailed%20visual%20representation%20of%20decision%20tree%20analysis%20for%20customer%20purchase%20behavior.%20The%20image%20should%20include%20nodes%20and%20branches%20clearly%20labeled.webp" alt="width=500" height=600 /></a>
 
 # Introduction
 This repository explores customer purchase behavior using a decision tree classification model. The dataset contains information on customer age, estimated salary, and whether they made a purchase after viewing a social media advertisement. The project demonstrates the use of decision trees for classification and prediction tasks in a business context.
